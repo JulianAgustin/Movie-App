@@ -1,5 +1,4 @@
 .container-cards{
     display:flex;
     overflow:auto;
-    box-sizing: border-box;
 }
